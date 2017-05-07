@@ -1,5 +1,5 @@
 export default {
   http: {
-    port: 80
+    port: 443
   },
 }
