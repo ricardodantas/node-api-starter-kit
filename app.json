@@ -1,0 +1,7 @@
+{
+  "name": "node-api-starter-kit",
+  "description": "A starter kit to build APIs.",
+  "repository": "https://github.com/ricardodantas/node-api-starter-kit",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express"]
+}
