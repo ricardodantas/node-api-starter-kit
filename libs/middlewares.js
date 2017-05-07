@@ -8,7 +8,7 @@ import helmet from 'helmet'
 
 module.exports = app => {
     app.set('json spaces', 2)
-    app.set("port", app.libs.config.port || 3000)
+    app.set("port", app.libs.config.http.port)
     app.use(morgan("common",{
         stream:{
             write: (msg) =>{
