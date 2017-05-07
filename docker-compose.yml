@@ -1,0 +1,8 @@
+version: '2.0'
+services:
+  api:
+    build: ./
+    environment:
+      - NODE_ENV=production
+    ports:
+      - 80:80
