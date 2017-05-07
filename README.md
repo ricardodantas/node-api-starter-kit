@@ -10,4 +10,4 @@ A starter kit to build APIs.
 
 
 ## Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-sample)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ricardodantas/node-api-starter-kit)
