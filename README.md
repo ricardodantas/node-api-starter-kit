@@ -7,6 +7,7 @@ A starter kit to build APIs.
 * Sequelize
 * Cluster
 * HTTPS
+* Nodemon
 
 
 ## Docker
